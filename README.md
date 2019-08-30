@@ -1,17 +1,5 @@
-## Project Insurance Company (feature)
-- Policy - contract between company and customers
-     
-     New Policy Form -> Front Counter | Make 3 copies and distribute
-
-        1. copy #1 -> ACCOUNTING - stores a big bag of cash
-        2. copy #2 -> CLAIMS - history stores a list of every claim
-        3. copy #3 -> POLICY - stores a list of active policies
-
-    **Story:** 
-    All department data will be stored in a centeral repository, outside of department. 
-    The form receiver will find list of policies, then hand it to to the POLICY department
-    Policy department will need to update list of policies in the centeral repository
-    Forms have two parts, a type and payload data
+## Song Selection(feature)
+- Songs are selected via button and the version is displayed
 
 ## Redux Notes:
 - **REDUX CYCLE**
@@ -20,7 +8,7 @@
     |:----------------:|:---------:|:-------------:|:-----------:|:------------------:|
     | form dropped off | the form  | form receiver | departments | compiled dept data |
 
-- ACTION CREATOR produces an ACTION that is fed to DISPATCH which forwards the action to the REDUCERS which then creates a new STATE object.
+- **ACTION CREATOR** produces an **ACTION** that is fed to **DISPATCH** then forwards the action to the **REDUCERS** which  creates a new **STATE** object.
 
 - There is no direct access to STATE
 
