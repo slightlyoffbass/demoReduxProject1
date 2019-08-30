@@ -16,7 +16,6 @@
 ## Redux Notes:
 
     |**REDUX CYCLE**|
-    |
     |  ACTION CREATOR  |   ACTION  |   DISPATCH    |  REDUCERS   |      STATE         |
     |:----------------:|:---------:|:-------------:|:-----------:|:------------------:|
     | form dropped off | the form  | form receiver | departments | compiled dept data |
