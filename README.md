@@ -2,8 +2,8 @@
 - Policy - contract between company and customers
      
      New Policy Form -> Front Counter | Make 3 copies and distribute
-        copy 1 -> **ACCOUNTING** - stores a big bag of cash
-        copy 2 -> **CLAIMS** - history stores a list of every claim
-        copy 3 -> **POLICY** - stores a list of active policies
+        1. copy -> **ACCOUNTING** - stores a big bag of cash
+        2. copy -> **CLAIMS** - history stores a list of every claim
+        3. copy -> **POLICY** - stores a list of active policies
 
 ## Redux Notes:
