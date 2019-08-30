@@ -20,6 +20,9 @@
     |:----------------:|:---------:|:-------------:|:-----------:|:------------------:|
     | form dropped off | the form  | form receiver | departments | compiled dept data |
 
+- ACTION CREATOR produces an ACTION that is fed to DISPATCH which forwards the action to the REDUCERS which then creates a new STATE object.
+
+- There is no direct access to STATE
 
 
 
