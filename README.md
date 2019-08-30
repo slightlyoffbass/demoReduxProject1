@@ -17,4 +17,4 @@
 
 - Redux cycle
 
-Actions-> ->  -> ->
+...Actions-> ->  -> ->
