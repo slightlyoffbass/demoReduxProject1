@@ -17,4 +17,4 @@
 
 - **REDUX CYCLE**
 
-     **Actions**--->****--->****--->****--->
+     **Action Creator**--->**Action**--->**Dispatch**--->**Reducers**--->**State**
