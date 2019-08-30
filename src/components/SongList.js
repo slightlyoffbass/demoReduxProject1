@@ -31,10 +31,7 @@ class SongList extends React.Component{
 }
 // take state object and copy it to props
 // state = all data in redux store
-const mapStateToProps = state => {
-    console.log("mapStateToProps...")
-    console.log(state);
-   
+const mapStateToProps = state => {   
     // pull songs object from state 
     return { songs: state.songs };
 }   
