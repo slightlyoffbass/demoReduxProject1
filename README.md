@@ -1,7 +1,6 @@
-## Song Selection App (feature)
+# Song Selection App (feature)
 - Songs are selected via button and the version is displayed
 
-  
     | Reducers |
     |:---|
     | song list reducer |
