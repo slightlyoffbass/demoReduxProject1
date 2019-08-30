@@ -14,7 +14,6 @@
     Forms have two parts, a type and payload data
 
 ## Redux Notes:
-
 - **REDUX CYCLE**
 
     |  ACTION CREATOR  |   ACTION  |   DISPATCH    |  REDUCERS   |      STATE         |
