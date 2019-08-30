@@ -18,7 +18,7 @@
 - **REDUX CYCLE**
 
     |  Action Creator  |   Action  |   Dispatch    |  Reducers   |      State         |
-    |------------------|-----------|---------------|-------------|--------------------|
+    |:----------------:|:---------:|:-------------:|:-----------:|:------------------:|
     | Form dropped off | the form  | form receiver | Departments | Compiled Dept Data |
 
 
